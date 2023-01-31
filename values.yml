@@ -1,0 +1,7 @@
+persistence:
+  enabled: true
+  storageClass: storage-sonarqube
+postgresql:
+  persistence:
+    enabled: true
+    storageClass: storage-sonarqube
